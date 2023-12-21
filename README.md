@@ -1,6 +1,6 @@
 This is an ASP.NET Core MVC based eCommerce application, where users can order etickets online from different Cinema.
 
-The technologies I including in this project is:
+The technologies I including in this project are:
 
 1. Entity Framework Core :- EF Core Migration, SQL server configuration, CRUD operations on database, relationships between data models.
 2. Dependency Injection :- injecting AppDbContext file to services(interface)/controllers/services/repositories.
